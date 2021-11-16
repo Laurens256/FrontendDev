@@ -35,15 +35,15 @@ Surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-http://www.sinatra.com 
+https://www.innersloth.com/games/among-us/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-http://www.sinatra.com - Home pagina/landingspagina
-<img src="img/sinatrahome.png" width="375px" alt="Home-pagina van Frank Sinatra's website">
+https://www.innersloth.com/games/among-us/ - Home pagina van de game; among us
+<img src="img/home.png" width="375px" alt="Home-pagina van de Among Us game">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-http://www.sinatra.com/timeline - tijdlijn pagina
-<img src="img/sinatratimeline.png" width="375px" alt="Pagina met tijdlijn van Frank Sinatra's leven">
+https://www.innersloth.com/news/ nieuwspagina van de game studio; Innersloth
+<img src="img/nieuwspagina.png" width="375px" alt="Pagina met nieuws over Innersloth game studios">
  
 </details>
 
