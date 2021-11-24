@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Laurens Duin
 
 #### Je startniveau:
-Blauw
+Rood
 
 #### Je focus:
 Surface plane
@@ -55,13 +55,10 @@ https://www.innersloth.com/news/ nieuwspagina van de game studio; Innersloth
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="img/amongus.png" width="375px" alt="breakdown van de hele pagina">
+<img src="img/breakdown.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="img/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="img/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+<img src="img/menudynamisch.png" width="375px" alt="nav menu van mobiele pagina">
 
 </details>
 
@@ -75,7 +72,9 @@ https://www.innersloth.com/news/ nieuwspagina van de game studio; Innersloth
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik begon eerst met een niet zo goed begin omdat ik al best wel veel code had geschreven voor een desktop versie terwijl het eerst voor een mobiel moet. Gelukkig was veel van mijn code al redelijk overdraagbaar dus kon ik dat prima bij trekken. Ik ben vooral bezig geweest met de nav en de eerste pagina van de site. Dit is een deel van wat ik tot nu toe heb: 
+<img src="img/voortgang1.png" width="375px" alt="screenshot van mijn nagemaakte versie van het startscherm">
+<img src="img/voortgang2.png" width="375px" alt="screenshot van een onderdeel uit de nagemaakte pagina">
 
 
 ### Agenda voor meeting
