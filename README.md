@@ -58,7 +58,7 @@ https://www.innersloth.com/news/ nieuwspagina van de game studio; Innersloth
 <img src="img/breakdown.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="img/menudynamisch.png" width="375px" alt="nav menu van mobiele pagina">
+<img src="img/mobilenav.png" width="375px" alt="nav menu van mobiele pagina">
 
 </details>
 
