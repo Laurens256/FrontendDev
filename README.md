@@ -78,22 +78,11 @@ Ik begon eerst met een niet zo goed begin omdat ik al best wel veel code had ges
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Voor de meeting hadden we als groepje nog niks besproken. De studentassistenten hebben mij wel geholpen met een vraag over mijn hamburger menu.
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- In plaats van: transform: rotate(0deg) rotate(45deg); --> transform: translateY(.3em) rotate(45deg); om de draaianimatie voor de mobile nav te laten werken.
 
 </details>
 
@@ -107,26 +96,16 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het gaat best wel goed qua vooruitgang. Vasilis heeft me in de les geholpen met svg's waardoor ik nu hover/focus states kan maken
+<img src="img/hoverstate.png" alt="hoverstate van svg knoppen>
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Eigenlijk had niemand van tevoren vragen.
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+We hebben in de meeting allemaal onze code laten zien en de student assistenten hebben feedback gegeven of verbeteringen voorgesteld. Een verbetering die bij mij naar voren kwam is dat ik het hamburger menu in een button kan doen ipv een div. Toen ik dit probeerde brak het dus daar moet ik later nog naar kijken.
 
 </details>
 
@@ -143,27 +122,30 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
 #### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+Parkinson test
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Deze test had voor mij het meeste effect. Ik moest heel erg wennen aan de trillende vingers waardoor ik vaak per ongeluk de muis indrukte. Toen ik er een beetje aan gewent was, ging het navigeren van mijn site best goed. Ik hoef dus geen grote aanpassingen te maken.
 
 
 #### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Peripheral vision loss bril
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Van de brillen vond ik dit de irritantste. Mijn site was nog goed te gebruiken maar soms moest ik wel wat langer kijken voordat ik alles goed zag. Een oplossing hiervoor zou kunnen zijn om de lettertypen te verhogen.
 
 
 #### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Blur/glare bril
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Deze bril maakte het vooral lastig om van veraf de pagina goed te zien. Het kostte mij meer focus om alles helemaal te lezen. De koppen kon ik wel in een oogopslag lezen waardoor ik de pagina makkelijk kon scannen.
 
 
 #### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Screen reader test
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Voor deze test hebben we een screanreader gebruikt. Ik heb de ingebouwde windows narrator gebruikt. Wat mij meteen opviel was dat mijn alt teksten niet overal even sterk waren. Zo heb ik waar ik voorheen "twitter logo" had als alt tekst nu: "twitter". Dit is een stuk minder lang, zeker wanneer je een hele lijst me social medias hebt. Omdat de screenreader voorleest dat het om een link gaat, is het nog steeds duidelijk wat de knop doet.
+
+Ook heb ik wat verbeteringen toegevoegd aan mijn email form. Zo heeft de submit knop nu wel een value en wanneer je email niet valid is (of juist wel) krijg je het meteen te horen.
+
 
 </details>
 
@@ -177,26 +159,15 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ik ben voor dit gesprek bezig geweest met de start van mijn eerste pagina. Ik ben nog niet heel ver hiermee.
+<img src="img/nieuws1920.png" alt="nieuws-pagina op groot scherm">
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Wederom hadden we als groepje van tevoren geen vragen. Tijdens het gesprek zijn er wel wat naar boven gekomen.
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Het voornaamste wat ik heb meegenomen uit dit gesprek is hoe ik de email in de form kan valideren. Ik had het voor het gesprek alleen met Javascript gedaan. Als ik tijd over heb ga ik kijken of het ook (goed) lukt met alleen CSS.
 
 </details>
 
@@ -227,10 +198,7 @@ hier screenshot(s) van je eindresultaat
 <details open>
 <summary>continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
-1. bron 1
-2. bron 2
-3. ...
+1. Kirby gif gemaakt door Himika1222 via: https://www.deviantart.com/himika1222/art/Day-2-of-Vacation-Kirby-Gif-616230092
+2. Javascript email validator (regular expression): https://stackoverflow.com/questions/49209362/what-is-the-meaning-of-s-s-gm-in-javascript
 
 </details>
