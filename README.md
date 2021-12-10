@@ -97,7 +97,7 @@ Voor de meeting hadden we als groepje nog niks besproken. De studentassistenten 
 
 ### Stand van zaken
 Het gaat best wel goed qua vooruitgang. Vasilis heeft me in de les geholpen met svg's waardoor ik nu hover/focus states kan maken
-<img src="img/hoverstate.png" alt="hoverstate van svg knoppen>
+<img src="img/hoverstate.png" alt="hoverstate van svg knoppen">
 
 
 ### Agenda voor meeting
@@ -125,6 +125,7 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 Parkinson test
 
 Deze test had voor mij het meeste effect. Ik moest heel erg wennen aan de trillende vingers waardoor ik vaak per ongeluk de muis indrukte. Toen ik er een beetje aan gewent was, ging het navigeren van mijn site best goed. Ik hoef dus geen grote aanpassingen te maken.
+<img src="img/parkinson.gif" alt="parkinson simulator">
 
 
 #### Titel tweede bevinding. 
@@ -143,6 +144,7 @@ Deze bril maakte het vooral lastig om van veraf de pagina goed te zien. Het kost
 Screen reader test
 
 Voor deze test hebben we een screanreader gebruikt. Ik heb de ingebouwde windows narrator gebruikt. Wat mij meteen opviel was dat mijn alt teksten niet overal even sterk waren. Zo heb ik waar ik voorheen "twitter logo" had als alt tekst nu: "twitter". Dit is een stuk minder lang, zeker wanneer je een hele lijst me social medias hebt. Omdat de screenreader voorleest dat het om een link gaat, is het nog steeds duidelijk wat de knop doet.
+<img src="img/aria-label.png" alt="aria label voorbeeld">
 
 Ook heb ik wat verbeteringen toegevoegd aan mijn email form. Zo heeft de submit knop nu wel een value en wanneer je email niet valid is (of juist wel) krijg je het meteen te horen.
 
@@ -181,11 +183,15 @@ Het voornaamste wat ik heb meegenomen uit dit gesprek is hoe ik de email in de f
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Voor dit laatste gesprek ben ik veel bezig geweest met wat kleinere dingen afronden. Ook heb ik dmv javascript localstorage het mogelijk gemaakt om je theme-voorkeur te onthouden. Verder had ik nog wat tijd over om wat leuke dingen toe te voegen:).
+<img src="img/localstorage.png" alt="code die voor het thema op de site zorgt">
 
 ### Screenshot(s)
+<img src="img/amogusfilters.png" alt="filters op de nieuwspagina">
+<img src="img/invalidcss.png" alt="email form validatie mbv css">
+<img src="img/houbebla.png" alt="nieuwsartikelen op de homepagina">
+<img src="img/lightmode.png" alt="licht thema">
 
-hier screenshot(s) van je eindresultaat
 
 </details>
 
